@@ -1,0 +1,9 @@
+Fase 3
+-Utilizei o GitHub Desktop para a criação do repositório e os commit, nele não são necessários comandos tradicionais, inclusive, posso estar realizando modificações direto no Visual Code Desktop.
+
+Contudo, para criar via linha de comando, no diretórios dos arquivos, botão direito: Git Bash Here:
+git init
+git status
+git add .
+git commit FASE1.sql FASE2.pbix FASE3.txt
+git push
